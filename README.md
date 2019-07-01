@@ -1,5 +1,8 @@
 # tripletadversarialnetwork
 implementation of paper “Semi-supervised center-based discriminative adversarial learning for cross-domain scene-level land-cover classification of aerial images” that is under ISPRS journal review now
+The environment:
+
+The python 2.7+pycaffe
 
 Dataset download:
 
