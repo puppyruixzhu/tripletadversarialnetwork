@@ -4,12 +4,6 @@ The environment:
 
 The python 2.7+pycaffe
 
-Dataset download:
-
-the url for xinyu datasets are A0: https://drive.google.com/open?id=10kUL2viAUYUxsfOsNeWC64eL77-d3ecv
-
-B0: https://drive.google.com/open?id=17rlwkmtY77dL7lI7Jo5QneJAu0qolT2A
-
 Pre-trained models download:
 
 pre-trained models for A0: https://drive.google.com/file/d/1GYsHdldYgRamWmy0M8kQJ38USBZ8LSFk/view?usp=sharing
